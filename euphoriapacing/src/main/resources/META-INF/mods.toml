@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[50,)"
+license="All Rights Reserved"
+clientSideOnly=true
+
+[[mods]]
+modId="euphoriapacing"
+version="0.5.0"
+displayName="Euphoria Pacing"
+authors="AtomicX"
+logoFile="euphoriapacing_logo.png"
+logoBlur=false
+credits="Original code by AtomicX"
+description='''Euphoria Pacing: client-side Pixel AI dynamic performance governor and frame-pacing mod.
+
+- Pixel AI Adaptive Quality: dynamically scales entity distance, block entities, particles, clouds, and simulation load with strict hysteresis and VSync awareness.
+- Block Entity Distance Culling: eliminates chest and sign lag in large bases and mob farms.
+- Smart Particle Culling & Burst Cap: prevents explosion, firework, and mob effect frame drops.
+- Elastic Chunk Mesh Uploads: eliminates chunk pop-in and micro-stutters.
+- Proximity-Aware Chunk Rebuilds: instant responsiveness for mining and placing blocks while offloading background world generation.
+- Full Sodium / Embeddium co-existence.
+'''
+
+[[mixins]]
+config="euphoriapacing.mixins.json"
+
+[[dependencies.euphoriapacing]]
+    modId="forge"
+    mandatory=true
+    versionRange="[50,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.euphoriapacing]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.5,1.22)"
+    ordering="NONE"
+    side="CLIENT"

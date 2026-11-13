@@ -1,0 +1,11 @@
+{
+  "options.euphoriapacing.header": "Euphoria Pacing (AtomicX) - Performance",
+  "options.euphoriapacing.targetFps": "Target FPS",
+  "options.euphoriapacing.targetFps.tooltip": "The framerate Euphoria Pacing tries to maintain. When FPS drops below this, Euphoria Pacing dynamically scales down non-essential visuals and restores them once performance stabilizes.",
+  "options.euphoriapacing.autoQuality": "Pixel AI Dynamic Quality",
+  "options.euphoriapacing.autoQuality.tooltip": "Automatically adapts entity distance, particles, clouds, and simulation load to maintain smooth, consistent frame times.",
+  "options.euphoriapacing.blockEntityCulling": "Block Entity Culling",
+  "options.euphoriapacing.blockEntityCulling.tooltip": "Adaptively culls distant tile entities (chests, signs, banners) in large storage rooms and bases, significantly improving framerate.",
+  "options.euphoriapacing.budgetedUploads": "Chunk Upload Budgeting",
+  "options.euphoriapacing.budgetedUploads.tooltip": "Smoothly budgets chunk mesh GPU uploads across frames with dynamic elasticity to eliminate micro-stutters during terrain generation."
+}

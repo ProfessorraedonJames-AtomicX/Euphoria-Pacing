@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.atomicx.euphoriapacing.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "BlockEntityRenderDispatcherMixin",
+    "DebugEntryFpsMixin",
+    "DebugScreenOverlayMixin",
+    "LevelRendererMixin",
+    "ParticleEngineMixin",
+    "SectionRenderDispatcherMixin",
+    "VideoSettingsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

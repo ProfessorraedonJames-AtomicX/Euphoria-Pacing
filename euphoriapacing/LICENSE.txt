@@ -1,0 +1,79 @@
+PolyForm Shield License 1.0.0 (with Add-On Permission Clause)
+
+Copyright (c) 2026 AtomicX. All rights reserved.
+Author Contact: professorraedonjames@gmail.com
+Software: Euphoria Pacing Suite (Euphoria Pacing, Euphoria Pacing Extended, Euphoria Pacing Bridge)
+
+================================================================================
+Acceptance
+================================================================================
+In order to receive this license, you must agree to its rules. The rules of this
+license are both obligations under that agreement and conditions to your grant of
+license. You must not do anything with this software that triggers a rule you
+cannot or will not follow.
+
+================================================================================
+Copyright License
+================================================================================
+The licensor grants you a copyright license for this software for any permitted
+purpose, to the extent the licensor can easily license the software under that
+copyright, and only as long as you follow the rules.
+
+================================================================================
+Noncompete Rule
+================================================================================
+Any purpose is a permitted purpose, except for providing any product that
+competes with the software or any other product or service of the licensor.
+
+Without limiting the generality of the foregoing, creating, distributing, or
+maintaining an unauthorized fork, direct re-distribution, or competing substitute
+for Euphoria Pacing, Euphoria Pacing Extended, or Euphoria Pacing Bridge is strictly
+prohibited without prior written consent.
+
+================================================================================
+Add-Ons, Extensions & Permission Inquiries
+================================================================================
+Third-party developers wishing to build companion add-ons, UI integrations, or
+extended functionality modules must request and receive explicit written
+authorization by emailing:
+
+    professorraedonjames@gmail.com
+
+CONDITIONS FOR AUTHORIZED EXTENSIONS & DERIVATIVES:
+1. Mandatory Name Retention: Any authorized add-on, extension, or companion mod
+   MUST explicitly and prominently retain "Euphoria Pacing" in its public project
+   title, description, and metadata (e.g., "[Mod Name] for Euphoria Pacing").
+2. Attribution: Full credit to "AtomicX" and the core "Euphoria Pacing" project
+   must be visibly maintained in all documentation, README files, and repository
+   pages.
+3. No Stripping of Core Branding: The in-game F3 identifiers ("Enhanced With
+   Euphoria Pacing" / "AtomicX core Way active" / "Pixel AI") must not be
+   removed, disguised, or altered by third-party integrations.
+
+================================================================================
+Notices
+================================================================================
+You must ensure that anyone who gets a copy of any part of this software from
+you also gets a copy of this license and the copyright notice above.
+
+================================================================================
+No Other Rights
+================================================================================
+This license does not grant you any right to use any trademark, service mark,
+or logo of the licensor outside of the attribution rules specified above.
+
+================================================================================
+Fair Use
+================================================================================
+You may have "fair use" rights for the software under the law. This license
+does not affect those rights.
+
+================================================================================
+No Warranty
+================================================================================
+The software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose and noninfringement. In no event shall the authors or
+copyright holders be liable for any claim, damages or other liability, whether
+in an action of contract, tort or otherwise, arising from, out of or in
+connection with the software or the use or other dealings in the software.
